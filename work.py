@@ -2,7 +2,7 @@
 # copyright notices and license terms.
 from decimal import Decimal
 from trytond.pool import PoolMeta
-from trytond.modules.project_product import get_service_goods_aux
+from trytond.modules.project_product.work import get_service_goods_aux
 
 
 class Work:
